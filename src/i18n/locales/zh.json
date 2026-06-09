@@ -1,0 +1,365 @@
+{
+  "nav": {
+    "home": "首页",
+    "function": "产品功能",
+    "versions": "版本历程",
+    "contact": "联系我们",
+    "title": "File Translator",
+    "downloads": "下载"
+  },
+  "hero": {
+    "title": "AI 驱动的办公文档翻译工具",
+    "subtitle": "支持 Excel、Word、PPT、PDF。保留格式，双语输出，多模型自由切换。让重复的翻译工作彻底自动化。",
+    "cta": "下载软件"
+  },
+  "features": {
+    "title": "核心能力",
+    "items": [
+      {
+        "title": "多格式支持",
+        "desc": "Excel、Word、PPT、PDF 全类型覆盖，一键翻译。"
+      },
+      {
+        "title": "格式保留",
+        "desc": "粗体、斜体、颜色、高亮完整保留，文档原样输出。"
+      },
+      {
+        "title": "多模型接入",
+        "desc": "DeepSeek、GLM、Qwen、ChatGPT 等主流模型自由切换。"
+      },
+      {
+        "title": "术语管理",
+        "desc": "自定义术语库，右键快速增删，确保专业翻译准确。"
+      },
+      {
+        "title": "多线程加速",
+        "desc": "长文档翻译速度提升数倍，支持批量文件处理。"
+      },
+      {
+        "title": "双语界面",
+        "desc": "中英文界面自由切换，满足国际化团队需求。"
+      }
+    ]
+  },
+  "products": {
+    "title": "版本历程",
+    "subtitle": "从 Excel 翻译工具到全能办公翻译助手的一年进化之路",
+    "items": [
+      {
+        "id": "v1.0.0",
+        "name": "v1.0.0 — 初版发布",
+        "tag": "Excel 翻译"
+      },
+      {
+        "id": "v1.0.2",
+        "name": "v1.0.2 — 快速迭代",
+        "tag": "区域选择"
+      },
+      {
+        "id": "v1.1.0",
+        "name": "v1.1.0 — 能力扩展",
+        "tag": "Word/PPT"
+      },
+      {
+        "id": "v1.4.0",
+        "name": "v1.4.0 — 体验优化",
+        "tag": "格式保留"
+      },
+      {
+        "id": "v1.6.0",
+        "name": "v1.6.0 — 终极形态",
+        "tag": "PDF 翻译"
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "value": "7+",
+        "label": "大版本迭代"
+      },
+      {
+        "value": "5",
+        "label": "文档格式"
+      },
+      {
+        "value": "2年+",
+        "label": "持续打磨"
+      },
+      {
+        "value": "1000+",
+        "label": "用户好评"
+      }
+    ]
+  },
+  "cta": {
+    "title": "让文档翻译不再是体力活",
+    "text": "File Translator —— 一款真正懂办公文档的 AI 翻译助手。",
+    "btn": "了解产品功能"
+  },
+  "footer": {
+    "copyright": "© 2026 File Translator. Power by TRANSLATECH",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
+  "function": {
+    "heroTitle": "产品功能",
+    "heroSubtitle": "探索 File Translator 的全部能力，让文档翻译变得智能、高效、可靠。",
+    "badgeDoc": "文档翻译",
+    "badgePdf": "PDF 处理",
+    "badgeAdvanced": "高级功能",
+    "excelTitle": "Excel 翻译",
+    "excelDesc": "完整保留表格结构，支持选择特定单元格、连续区域或整张工作表进行批量翻译。",
+    "excelP1": "支持 .xlsx 和 .xls 格式",
+    "excelP2": "单元格区域选择，冒号语法（如 A:D）",
+    "excelP3": "多工作表批量处理",
+    "wordTitle": "Word 翻译",
+    "wordDesc": "翻译 Word 文档时完整保留所有格式——粗体、斜体、颜色、高亮、表格均保持原样。",
+    "wordP1": "格式完全保留（字体、样式、表格）",
+    "wordP2": "双语对照输出",
+    "wordP3": "批量文档处理",
+    "pptTitle": "PowerPoint 翻译",
+    "pptDesc": "逐页翻译演示文稿，文本框、形状和布局完整保留——幻灯片外观与设计稿一致。",
+    "pptP1": "文本框和形状内容翻译",
+    "pptP2": "版式和设计保留",
+    "pptP3": "演讲者备注翻译支持",
+    "pdfDirectTitle": "PDF 直译",
+    "pdfDirectDesc": "直接翻译 PDF 文档，无需转换。支持 PDF 内的文本、表格和图像内容。",
+    "pdfDirectP1": "原生 PDF 处理引擎",
+    "pdfDirectP2": "表格结构识别",
+    "pdfDirectP3": "文本对齐保留",
+    "pdfConvTitle": "PDF 转换翻译",
+    "pdfConvDesc": "先将 PDF 转换为可编辑格式再翻译，获得完全控制权。适用于复杂布局和扫描文档。",
+    "pdfConvP1": "PDF 转 Word/Excel",
+    "pdfConvP2": "扫描件 OCR 支持",
+    "pdfConvP3": "转换后可编辑灵活性",
+    "ocrTitle": "图片 OCR 翻译",
+    "ocrDesc": "从图片中提取并翻译文字。内置 OCR 技术，支持截图、照片和扫描文档。",
+    "termTitle": "术语库管理",
+    "termDesc": "构建和管理自定义术语表，确保专业翻译的一致性。右键添加术语，支持批量导入导出。",
+    "miscTitle": "智能细节",
+    "miscDesc": "自定义配色、模型选择、网络环境自动检测、文件格式校验、用户偏好记忆等贴心功能。"
+  },
+  "terms": {
+    "title": "服务条款",
+    "subtitle": "最后更新：2026 年 6 月",
+    "effective": "生效日期：2026 年 6 月 9 日",
+    "sections": [
+      {
+        "title": "1. 条款接受",
+        "paragraphs": [
+          "访问或使用 File Translator（以下简称「本服务」），即表示您同意受本服务条款的约束。如果您不同意，请立即停止使用。"
+        ]
+      },
+      {
+        "title": "2. 服务描述",
+        "paragraphs": [
+          "File Translator 是一款 AI 驱动的文档翻译工具，支持 Excel、Word、PowerPoint 和 PDF 文件。我们保留随时修改、暂停或终止服务任何方面的权利，恕不另行通知。"
+        ]
+      },
+      {
+        "title": "3. 用户义务",
+        "paragraphs": [
+          "您同意不从事以下行为："
+        ],
+        "list": [
+          "将本服务用于任何非法目的或违反适用法律",
+          "上传或翻译侵犯第三方知识产权的内容",
+          "试图对服务进行逆向工程、反编译或提取源代码",
+          "使用本服务传播恶意软件、病毒或任何有害代码",
+          "与未授权的第三方共享您的许可证密钥或访问凭据"
+        ]
+      },
+      {
+        "title": "4. 知识产权",
+        "paragraphs": [
+          "本服务及其所有原创内容、功能和特性均归 TRANSLATECH 所有，并受国际版权、商标和其他知识产权法保护。本服务生成的翻译输出内容归您（用户）所有。"
+        ]
+      },
+      {
+        "title": "5. AI 翻译免责声明",
+        "paragraphs": [
+          "File Translator 使用 AI 模型进行翻译。虽然我们力求准确，但不保证翻译结果完全无误或适用于所有目的。用户应在法律、医疗或其他敏感场景中使用前对关键翻译进行审阅。"
+        ]
+      },
+      {
+        "title": "6. 责任限制",
+        "paragraphs": [
+          "在法律允许的最大范围内，TRANSLATECH 不对因使用本服务而产生的任何间接、偶然、特殊、后果性或惩罚性损害赔偿承担责任。"
+        ]
+      },
+      {
+        "title": "7. 终止",
+        "paragraphs": [
+          "我们保留在认为用户行为违反本条款或对其他用户、我们或第三方有害的情况下，无需事先通知即终止或暂停服务访问的权利。"
+        ]
+      },
+      {
+        "title": "8. 条款变更",
+        "paragraphs": [
+          "我们可能不时更新本条款。在变更后继续使用本服务即表示接受新条款。我们将通过服务或电子邮件通知用户重大变更。"
+        ]
+      },
+      {
+        "title": "9. 适用法律",
+        "paragraphs": [
+          "本条款受新加坡法律管辖并按其解释，不考虑法律冲突条款。"
+        ]
+      },
+      {
+        "title": "10. 联系我们",
+        "paragraphs": [
+          "如对本条款有任何疑问，请通过 support@translatech.com 与我们联系。"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "subtitle": "最后更新：2026 年 6 月",
+    "effective": "生效日期：2026 年 6 月 9 日",
+    "sections": [
+      {
+        "title": "1. 我们收集的信息",
+        "paragraphs": [
+          "当您创建账户时，我们可能会收集您的姓名和电子邮件地址。",
+          "我们自动收集您如何与本翻译服务交互的信息，包括功能使用情况、翻译的文件类型和错误日志。",
+          "您上传进行翻译的文档仅临时处理，翻译完成后不会永久存储在我们的服务器上。"
+        ]
+      },
+      {
+        "title": "2. 我们如何使用您的信息",
+        "paragraphs": [
+          "我们将收集的信息用于："
+        ],
+        "list": [
+          "提供和维护本服务",
+          "处理您的翻译请求",
+          "改进和优化本服务",
+          "就更新和支持与您沟通",
+          "检测和防止技术问题或滥用行为"
+        ]
+      },
+      {
+        "title": "3. 数据处理与第三方 AI 模型",
+        "paragraphs": [
+          "File Translator 集成了第三方 AI 模型（如 DeepSeek、GLM、Qwen 和 OpenAI）。当您提交翻译请求时，文档内容将传输至所选 AI 提供商进行处理。每个提供商都有自己的隐私政策，我们建议您查阅。"
+        ]
+      },
+      {
+        "title": "4. 数据保留",
+        "paragraphs": [
+          "上传的文档在内存中处理，翻译会话结束后不会存储在我们的服务器上。账户信息在账户活跃期间保留。使用分析数据最多保留 12 个月。"
+        ]
+      },
+      {
+        "title": "5. 数据安全",
+        "paragraphs": [
+          "我们实施行业标准的安全措施，包括传输加密（TLS）和适用情况下的静态加密。然而，没有任何电子存储方法 100% 安全，我们无法保证绝对安全。"
+        ]
+      },
+      {
+        "title": "6. 您的权利",
+        "paragraphs": [
+          "根据您的司法管辖区，您可能享有以下权利：",
+          "如需行使这些权利，请通过 support@translatech.com 与我们联系。"
+        ],
+        "list": [
+          "访问我们持有的您的个人数据",
+          "要求更正或删除您的数据",
+          "反对或限制某些处理活动",
+          "在适用情况下的数据可移植性"
+        ]
+      },
+      {
+        "title": "7. Cookies",
+        "paragraphs": [
+          "本服务可能使用必要的 Cookies 进行会话管理和偏好存储。我们不使用跟踪 Cookies 用于广告目的。您可以在浏览器设置中禁用 Cookies，但这可能影响功能。"
+        ]
+      },
+      {
+        "title": "8. 儿童隐私",
+        "paragraphs": [
+          "本服务不面向 13 岁以下的个人。我们不会有意收集儿童的个人信息。"
+        ]
+      },
+      {
+        "title": "9. 国际数据传输",
+        "paragraphs": [
+          "您的信息可能会传输至并在您居住国以外的国家进行处理。我们采取适当保障措施确保您的数据得到保护。"
+        ]
+      },
+      {
+        "title": "10. 政策变更",
+        "paragraphs": [
+          "我们可能不时更新本隐私政策。我们将在本页面发布新政策并更新生效日期来通知重大变更。"
+        ]
+      },
+      {
+        "title": "11. 联系我们",
+        "paragraphs": [
+          "如有隐私相关问题，请通过 support@translatech.com 与我们联系。"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "heroTitle": "联系我们",
+    "heroSubtitle": "有问题或反馈？我们很乐意倾听。以下是我们团队的联系方式。",
+    "emailSupport": "邮件支持",
+    "emailDesc": "直接给我们发邮件，工作日内回复。",
+    "socialMedia": "社交媒体",
+    "socialDesc": "在以下平台关注我们，获取最新动态。",
+    "location": "位置",
+    "locationDesc": "我们是远程优先团队，总部位于深圳。",
+    "locationMeta": "深圳（远程优先）",
+    "faqTitle": "常见问题",
+    "faq1q": "响应时间多长？",
+    "faq1a": "我们会在工作日内 24-48 小时内回复所有咨询。",
+    "faq2q": "公司在哪？",
+    "faq2a": "我们是远程优先团队，总部位于深圳 (Shenzhen)。",
+    "hoursTitle": "办公时间",
+    "hoursDays": "周一 — 周五",
+    "hoursTime": "9:00 – 18:00",
+    "hoursTz": "GMT+8（新加坡 / 北京时间）",
+    "formTitle": "发消息",
+    "formName": "姓名",
+    "formNamePlaceholder": "你的名字",
+    "formEmail": "邮箱",
+    "formEmailPlaceholder": "your@email.com",
+    "formSubject": "主题",
+    "formSubjectPlaceholder": "例如：合作咨询",
+    "formMessage": "内容",
+    "formMessagePlaceholder": "请写下你想说的话...",
+    "formSubmit": "发送消息",
+    "formSent": "已发送 ✓",
+    "teamTitle": "团队",
+    "teamRole1": "全栈开发",
+    "teamBio1": "从需求到代码，从架构到交付。相信「减少重复劳动」的力量。",
+    "teamRole2": "前端开发兼架构师",
+    "teamBio2": "负责网站建设，软件架构，相信「懒人改变世界」。",
+    "teamName1": "ABDEREMANE SOILIHI",
+    "teamName2": "CHENG BIN"
+  },
+  "downloads": {
+    "heroTitle": "下载 File Translator",
+    "heroSubtitle": "获取 File Translator 最新 Windows 版本。免费下载，即装即用。",
+    "windowsTitle": "Windows 桌面应用",
+    "windowsDesc": "兼容 Windows 10 及以上系统。支持 Excel、Word、PPT、PDF 翻译。",
+    "winP1": "全文档格式支持",
+    "winP2": "多模型 AI 翻译引擎",
+    "winP3": "完全离线可用",
+    "btnText": "前往 GitHub 下载",
+    "note": "最新版本和更新日志请查看 GitHub 发布页",
+    "macTitle": "macOS 应用",
+    "macDesc": "兼容 macOS 12 Monterey 及以上系统。原生体验，支持 Apple Silicon。",
+    "macP1": "通用二进制（Intel + Apple Silicon）",
+    "macP2": "原生 macOS 设计与交互",
+    "macP3": "全文档格式支持",
+    "linuxTitle": "Linux 应用",
+    "linuxDesc": "以 AppImage 格式提供，支持主流发行版。无需安装，下载即可运行。",
+    "linuxP1": "AppImage 格式，免安装",
+    "linuxP2": "已测试 Ubuntu、Fedora、Debian",
+    "linuxP3": "与桌面版功能完全一致"
+  }
+}

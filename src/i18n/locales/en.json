@@ -1,0 +1,365 @@
+{
+  "nav": {
+    "home": "Home",
+    "function": "Features",
+    "versions": "Versions",
+    "contact": "Contact Us",
+    "title": "File Translator",
+    "downloads": "Download"
+  },
+  "hero": {
+    "title": "AI-Powered Document Translation Tool",
+    "subtitle": "Supports Excel, Word, PPT, PDF. Format retention, bilingual output, multi-model switching. Automate repetitive translation work once and for all.",
+    "cta": "Download Now"
+  },
+  "features": {
+    "title": "Core Capabilities",
+    "items": [
+      {
+        "title": "Multi-Format",
+        "desc": "Full coverage of Excel, Word, PPT, PDF with one-click translation."
+      },
+      {
+        "title": "Format Retention",
+        "desc": "Bold, italic, color, and highlights perfectly preserved — documents output as-is."
+      },
+      {
+        "title": "Multi-Model",
+        "desc": "Seamless switching between DeepSeek, GLM, Qwen, ChatGPT and more."
+      },
+      {
+        "title": "Terminology Manager",
+        "desc": "Custom glossary with right-click management for accurate professional translation."
+      },
+      {
+        "title": "Multi-Threaded",
+        "desc": "Long documents translated several times faster with batch file support."
+      },
+      {
+        "title": "Bilingual UI",
+        "desc": "Switch between Chinese and English interfaces for global teams."
+      }
+    ]
+  },
+  "products": {
+    "title": "Version History",
+    "subtitle": "A year of evolution: from Excel translator to all-in-one document translation assistant",
+    "items": [
+      {
+        "id": "v1.0.0",
+        "name": "v1.0.0 — First Release",
+        "tag": "Excel Translation"
+      },
+      {
+        "id": "v1.0.2",
+        "name": "v1.0.2 — Rapid Iteration",
+        "tag": "Range Selection"
+      },
+      {
+        "id": "v1.1.0",
+        "name": "v1.1.0 — Feature Expansion",
+        "tag": "Word/PPT Support"
+      },
+      {
+        "id": "v1.4.0",
+        "name": "v1.4.0 — Experience Polish",
+        "tag": "Format Retention"
+      },
+      {
+        "id": "v1.6.0",
+        "name": "v1.6.0 — Ultimate Form",
+        "tag": "PDF Translation"
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "value": "7+",
+        "label": "Major Releases"
+      },
+      {
+        "value": "5",
+        "label": "File Formats"
+      },
+      {
+        "value": "2 year+",
+        "label": "Continuous Polish"
+      },
+      {
+        "value": "1000+",
+        "label": "Positive Review"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Translation isn't busywork anymore",
+    "text": "File Translator — an AI assistant that truly understands office documents.",
+    "btn": "Explore Features"
+  },
+  "footer": {
+    "copyright": "© 2026 File Translator. Power by TRANSLATECH",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "function": {
+    "heroTitle": "Product Features",
+    "heroSubtitle": "Explore all the capabilities that make File Translator the smartest choice for document translation.",
+    "badgeDoc": "Document Translation",
+    "badgePdf": "PDF Processing",
+    "badgeAdvanced": "Advanced Features",
+    "excelTitle": "Excel Translation",
+    "excelDesc": "Translate Excel spreadsheets with full structure preservation. Select specific cells, ranges, or entire worksheets for batch translation.",
+    "excelP1": "Support for .xlsx and .xls formats",
+    "excelP2": "Cell range selection with colon syntax (e.g. A:D)",
+    "excelP3": "Multi-sheet batch processing",
+    "wordTitle": "Word Translation",
+    "wordDesc": "Translate Word documents while preserving all formatting — bold, italic, colors, highlights, and tables remain intact.",
+    "wordP1": "Full format retention (fonts, styles, tables)",
+    "wordP2": "Bilingual side-by-side output",
+    "wordP3": "Batch document processing",
+    "pptTitle": "PowerPoint Translation",
+    "pptDesc": "Translate presentations slide by slide. Text boxes, shapes, and layouts are preserved — your slides look exactly as designed.",
+    "pptP1": "Text box and shape content translation",
+    "pptP2": "Layout and design preservation",
+    "pptP3": "Speaker notes translation support",
+    "pdfDirectTitle": "PDF Direct Translation",
+    "pdfDirectDesc": "Directly translate PDF documents without conversion. Support for text, tables, and images within PDF files.",
+    "pdfDirectP1": "Native PDF processing engine",
+    "pdfDirectP2": "Table structure recognition",
+    "pdfDirectP3": "Text alignment preservation",
+    "pdfConvTitle": "PDF Conversion Translation",
+    "pdfConvDesc": "Convert PDF to editable formats first, then translate with full control. Ideal for complex layouts and scanned documents.",
+    "pdfConvP1": "PDF-to-Word/Excel conversion",
+    "pdfConvP2": "OCR support for scanned PDFs",
+    "pdfConvP3": "Post-conversion editing flexibility",
+    "ocrTitle": "Image OCR Translation",
+    "ocrDesc": "Extract and translate text from images. Supports screenshots, photos, and scanned documents with built-in OCR technology.",
+    "termTitle": "Terminology Management",
+    "termDesc": "Build and manage custom glossaries for consistent professional translation. Right-click to add terms, batch import/export supported.",
+    "miscTitle": "Smart Features",
+    "miscDesc": "Custom color themes, model selection, auto network detection, file format validation, user preference memory, and more thoughtful touches."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "subtitle": "Last updated: June 2026",
+    "effective": "Effective Date: June 9, 2026",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "paragraphs": [
+          "By accessing or using File Translator (\"the Service\"), you agree to be bound by these Terms of Service. If you do not agree, please discontinue use immediately."
+        ]
+      },
+      {
+        "title": "2. Description of Service",
+        "paragraphs": [
+          "File Translator is an AI-powered document translation tool that supports Excel, Word, PowerPoint, and PDF files. We reserve the right to modify, suspend, or discontinue any aspect of the Service at any time without prior notice."
+        ]
+      },
+      {
+        "title": "3. User Obligations",
+        "paragraphs": [
+          "You agree not to:"
+        ],
+        "list": [
+          "Use the Service for any unlawful purpose or in violation of any applicable laws",
+          "Upload or translate content that infringes on third-party intellectual property rights",
+          "Attempt to reverse-engineer, decompile, or extract the source code of the Service",
+          "Use the Service to transmit malware, viruses, or any harmful code",
+          "Share your license key or access credentials with unauthorized third parties"
+        ]
+      },
+      {
+        "title": "4. Intellectual Property",
+        "paragraphs": [
+          "The Service and all its original content, features, and functionality are owned by TRANSLATECH and are protected by international copyright, trademark, and other intellectual property laws. The translated output generated by the Service belongs to you, the user."
+        ]
+      },
+      {
+        "title": "5. AI Translation Disclaimer",
+        "paragraphs": [
+          "File Translator uses AI models for translation. While we strive for accuracy, we do not guarantee that translations will be error-free or suitable for all purposes. Users should review critical translations before use in legal, medical, or other sensitive contexts."
+        ]
+      },
+      {
+        "title": "6. Limitation of Liability",
+        "paragraphs": [
+          "To the fullest extent permitted by law, TRANSLATECH shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the Service."
+        ]
+      },
+      {
+        "title": "7. Termination",
+        "paragraphs": [
+          "We reserve the right to terminate or suspend access to the Service without prior notice for conduct that we believe violates these Terms or is harmful to other users, us, or third parties."
+        ]
+      },
+      {
+        "title": "8. Changes to Terms",
+        "paragraphs": [
+          "We may update these Terms from time to time. Continued use of the Service after any changes constitutes acceptance of the new Terms. We will notify users of material changes via the Service or email."
+        ]
+      },
+      {
+        "title": "9. Governing Law",
+        "paragraphs": [
+          "These Terms shall be governed by and construed in accordance with the laws of Singapore, without regard to its conflict of law provisions."
+        ]
+      },
+      {
+        "title": "10. Contact",
+        "paragraphs": [
+          "For questions about these Terms, please contact us at support@translatech.com."
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Last updated: June 2026",
+    "effective": "Effective Date: June 9, 2026",
+    "sections": [
+      {
+        "title": "1. Information We Collect",
+        "paragraphs": [
+          "When you create an account, we collect your name and email address.",
+          "We automatically collect information about how you interact with the Service, including feature usage, file types translated, and error logs.",
+          "Documents you upload for translation are processed temporarily and are not permanently stored on our servers after translation is complete."
+        ]
+      },
+      {
+        "title": "2. How We Use Your Information",
+        "paragraphs": [
+          "We use the collected information to:"
+        ],
+        "list": [
+          "Provide and maintain the Service",
+          "Process your translation requests",
+          "Improve and optimize the Service",
+          "Communicate with you about updates and support",
+          "Detect and prevent technical issues or abuse"
+        ]
+      },
+      {
+        "title": "3. Data Processing & Third-Party AI Models",
+        "paragraphs": [
+          "File Translator integrates with third-party AI models (such as DeepSeek, GLM, Qwen, and OpenAI). When you submit a translation request, the document content is transmitted to the selected AI provider for processing. Each provider has its own privacy policy, and we encourage you to review them."
+        ]
+      },
+      {
+        "title": "4. Data Retention",
+        "paragraphs": [
+          "Uploaded documents are processed in memory and are not stored on our servers after the translation session ends. Account information is retained as long as your account is active. Usage analytics data is retained for up to 12 months."
+        ]
+      },
+      {
+        "title": "5. Data Security",
+        "paragraphs": [
+          "We implement industry-standard security measures including encryption in transit (TLS) and at rest where applicable. However, no method of electronic storage is 100% secure, and we cannot guarantee absolute security."
+        ]
+      },
+      {
+        "title": "6. Your Rights",
+        "paragraphs": [
+          "Depending on your jurisdiction, you may have the right to:",
+          "To exercise these rights, contact us at support@translatech.com."
+        ],
+        "list": [
+          "Access the personal data we hold about you",
+          "Request correction or deletion of your data",
+          "Object to or restrict certain processing activities",
+          "Data portability where applicable"
+        ]
+      },
+      {
+        "title": "7. Cookies",
+        "paragraphs": [
+          "The Service may use essential cookies for session management and preference storage. We do not use tracking cookies for advertising purposes. You can disable cookies in your browser settings, though this may affect functionality."
+        ]
+      },
+      {
+        "title": "8. Children's Privacy",
+        "paragraphs": [
+          "The Service is not intended for individuals under the age of 13. We do not knowingly collect personal information from children."
+        ]
+      },
+      {
+        "title": "9. International Data Transfers",
+        "paragraphs": [
+          "Your information may be transferred to and processed in countries other than your country of residence. We take appropriate safeguards to ensure your data remains protected."
+        ]
+      },
+      {
+        "title": "10. Changes to This Policy",
+        "paragraphs": [
+          "We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new policy on this page and updating the effective date."
+        ]
+      },
+      {
+        "title": "11. Contact",
+        "paragraphs": [
+          "For privacy-related inquiries, contact us at support@translatech.com."
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "heroTitle": "Get in Touch",
+    "heroSubtitle": "Have questions or feedback? We'd love to hear from you. Here's how you can reach our team.",
+    "emailSupport": "Email Support",
+    "emailDesc": "Send us an email and we'll reply within business days.",
+    "socialMedia": "Social Media",
+    "socialDesc": "Follow us on these platforms for the latest updates.",
+    "location": "Location",
+    "locationDesc": "We are a remote-first team headquartered in Singapore.",
+    "locationMeta": "Singapore (Remote-First)",
+    "faqTitle": "FAQ",
+    "faq1q": "How fast do you respond?",
+    "faq1a": "We reply to all inquiries within 24-48 hours on business days.",
+    "faq2q": "Where is the company located?",
+    "faq2a": "We are a remote-first team headquartered in Singapore.",
+    "hoursTitle": "Office Hours",
+    "hoursDays": "Mon — Fri",
+    "hoursTime": "9:00 – 18:00",
+    "hoursTz": "GMT+8 (Singapore / Beijing Time)",
+    "formTitle": "Send a Message",
+    "formName": "Name",
+    "formNamePlaceholder": "Your name",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "your@email.com",
+    "formSubject": "Subject",
+    "formSubjectPlaceholder": "e.g. Collaboration inquiry",
+    "formMessage": "Message",
+    "formMessagePlaceholder": "What would you like to say...",
+    "formSubmit": "Send Message",
+    "formSent": "Sent ✓",
+    "teamTitle": "Team",
+    "teamRole1": "Full-Stack Developer",
+    "teamBio1": "From requirements to code, from architecture to delivery. Believes in the power of reducing repetitive work.",
+    "teamRole2": "Front-end developer and Architect",
+    "teamBio2": "Responsible for website construction and software architecture, believes that lazy people change the world.",
+    "teamName1": "ABDEREMANE SOILIHI",
+    "teamName2": "CHENG BIN"
+  },
+  "downloads": {
+    "heroTitle": "Download File Translator",
+    "heroSubtitle": "Get the latest version of File Translator for Windows. Free to download, easy to install.",
+    "windowsTitle": "Windows Desktop App",
+    "windowsDesc": "Compatible with Windows 10 and above. Supports Excel, Word, PPT, PDF translation.",
+    "winP1": "Full document format support",
+    "winP2": "Multi-model AI translation engine",
+    "winP3": "Completely offline capable",
+    "btnText": "Download from GitHub",
+    "note": "Latest releases and version history on GitHub",
+    "macTitle": "macOS App",
+    "macDesc": "Compatible with macOS 12 Monterey and above. Native experience with Apple Silicon support.",
+    "macP1": "Universal binary (Intel + Apple Silicon)",
+    "macP2": "Native macOS design and interactions",
+    "macP3": "Full document format support",
+    "linuxTitle": "Linux App",
+    "linuxDesc": "Available as AppImage for major distributions. No installation required — just download and run.",
+    "linuxP1": "AppImage format, no install needed",
+    "linuxP2": "Tested on Ubuntu, Fedora, Debian",
+    "linuxP3": "Full feature parity with desktop versions"
+  }
+}
